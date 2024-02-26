@@ -9,7 +9,7 @@
 
 #define HOST "127.0.0.1"
 #define USER "root"
-#define PASS "1234567890@My" // Define your MySQL password here
+#define PASS "" // Define your MySQL password here
 #define DATABASE "bank"
 #define PORT 3306
 
