@@ -1,1 +1,9 @@
+CREATE DATABASE bank;
+USE bank;
+CREATE TABLE account (
+    account_number INT PRIMARY KE,
+    name VARCHAR(100) NOT NULL,
+    balance INT NOT NULL,
+    pass INT NOT NULL
+);
 
