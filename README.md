@@ -1,4 +1,4 @@
-# Simple Bank Management System
+# Bank Management System
 
 This project is a simple bank management system implemented in C++ with MySQL database integration. It allows users to create accounts, check balances, delete accounts, and transfer money between accounts.
 
