@@ -10,7 +10,6 @@ Before running this program, ensure you have the following installed:
 - MySQL server
 - MySQL C++ Connector
 
-- 
 ## Usage
 
 Follow the on-screen instructions to interact with the bank management system:
